@@ -1,13 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header)
 
-Introduce
 ---
 
-<br/>
+## **Introduction**
 
-- 초라한 시작에서 화려한 마무리를 위한 여정
-- The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
-- ✉️ sktjdqls123@gmail.com
+**From humble beginnings to a brilliant finish – my coding journey.**
+
+"The trouble with programmers is that you can never tell what a programmer is doing until it's too late." 😉
+
+Feel free to reach out: ✉️ **sktjdqls123@gmail.com**
+
+---
 
 <br/>
 
@@ -19,8 +22,9 @@ Introduce
 
 <br/>
 
-Languages
 ---
+
+## **Languages**
 
 <br/>
 
@@ -30,5 +34,6 @@ Languages
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=footer)
