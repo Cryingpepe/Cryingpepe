@@ -1,4 +1,3 @@
-![header](https://image.pollinations.ai/prompt/dynamic%20vibrant%20color%20gradient%20header%20banner)
 
 ---
 
@@ -35,5 +34,3 @@ Feel free to reach out: ✉️ **sktjdqls123@gmail.com**
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ---
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=footer)
