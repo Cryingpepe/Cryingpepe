@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header)
+![header](https://image.pollinations.ai/prompt/dynamic%20vibrant%20color%20gradient%20header%20banner)
 
 ---
 
