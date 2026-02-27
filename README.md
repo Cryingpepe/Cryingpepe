@@ -13,11 +13,9 @@ Feel free to reach out: ✉️ **sktjdqls123@gmail.com**
 
 <br/>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cryingpepe)
-
-<br/>
-
-![Cryingpepe's github stats](https://github-readme-stats.vercel.app/api?username=Cryingpepe&show_icons=true)[![Cryingpepe's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryingpepe&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Cryingpepe)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cryingpepe&theme=github-compact&radius=10&area=true&hide_border=true&color=4DB6AC&line=26C6DA&point=80DEEA" width="96%" />
+</div>
 
 <br/>
 
