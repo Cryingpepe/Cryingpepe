@@ -7,7 +7,7 @@
 
 "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." 😉
 
-Feel free to reach out: ✉️ **sktjdqls123@gmail.com**
+Feel free to reach out: ✉️ **seongbeenna@gmail.com**
 
 ---
 
